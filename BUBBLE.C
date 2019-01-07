@@ -23,7 +23,7 @@ for(i=0;i<(n-1);i++)
 printf("\n sorted list in ascending order:\n");
 for(i=0;i<n;i++)
 {
-	printf("\%d\n",array[i]);
+	printf("\n%d\n",array[i]);
 	}
 	return 0;
 	 }
